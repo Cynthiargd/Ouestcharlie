@@ -1,0 +1,24 @@
+.Charlie {
+
+    width: 400px;
+    height: 100px;
+   margin-left: 100px;
+    cursor: url(../Assets/Images/charliecurseur.png),auto;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  @font-face {
+    font-family: "Karrik-Regular";
+    src: url(../Assets/Font/Karrik-Regular.woff);
+  }
+
+
+  .Charlie{
+    font-family:"Karrik-Regular";
+    font-size: 100px;
+    color: floralwhite;
+  }
+
+  body{
+    background-color: rgba(111, 74, 92, 0.627);
+  }
